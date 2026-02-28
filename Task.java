@@ -1,7 +1,4 @@
-//MEMBER NAME : TATENDA MACHIRORI
-//CLASS       : CS3354
-
-  // Task.java
+// Task.java
 
 public class Task {
     // Instance variables
