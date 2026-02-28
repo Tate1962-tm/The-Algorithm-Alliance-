@@ -1,6 +1,3 @@
-//MEMBER NAME      : TATENDA MACHIRORI
-//CLASS            : CS3354
-
 // TaskTracker.java
 
 import java.util.List;
